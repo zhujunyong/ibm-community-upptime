@@ -6,6 +6,9 @@ sites:
   - name: IBM Community
     url: https://www.ibm.com/community/
     icon: https://www.ibm.com/favicon.ico
+  - name: IBM Community test notification
+    url: https://www.ibm.com/community/test_notification
+    icon: https://www.ibm.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
