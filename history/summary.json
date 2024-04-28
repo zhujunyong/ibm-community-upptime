@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1072,
-    "timeDay": 1072,
-    "timeWeek": 1072,
-    "timeMonth": 1072,
-    "timeYear": 1072,
+    "time": 1294,
+    "timeDay": 1294,
+    "timeWeek": 1294,
+    "timeMonth": 1294,
+    "timeYear": 1294,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "IBM Community test notification",
+    "url": "https://www.ibm.com/community/test_notification",
+    "icon": "https://www.ibm.com/favicon.ico",
+    "slug": "ibm-community-test-notification",
+    "status": "down",
+    "uptime": "43.63%",
+    "uptimeDay": "43.63%",
+    "uptimeWeek": "43.63%",
+    "uptimeMonth": "43.63%",
+    "uptimeYear": "43.63%",
+    "time": 610,
+    "timeDay": 610,
+    "timeWeek": 610,
+    "timeMonth": 610,
+    "timeYear": 610,
+    "dailyMinutesDown": {
+      "2024-04-28": 0
+    }
   }
 ]
