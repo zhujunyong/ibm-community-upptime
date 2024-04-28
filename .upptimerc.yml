@@ -6,9 +6,6 @@ sites:
   - name: IBM Community
     url: https://www.ibm.com/community/
     icon: https://www.ibm.com/favicon.ico
-  - name: IBM Community wp-admin
-    url: https://www.ibm.com/community/wp-admin/
-    icon: https://www.ibm.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
