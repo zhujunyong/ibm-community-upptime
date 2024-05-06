@@ -58,19 +58,19 @@
     "url": "https://community.ibm.com/community/user/communities/community-home?CommunityKey=8c64553a-86a9-4af3-a2e6-55826c69b4e2",
     "icon": "https://www.ibm.com/favicon.ico",
     "slug": "hl-tech-xchange-group",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 5090,
-    "timeDay": 5090,
-    "timeWeek": 5090,
-    "timeMonth": 5090,
-    "timeYear": 5090,
+    "status": "up",
+    "uptime": "97.52%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "97.52%",
+    "time": 4999,
+    "timeDay": 4999,
+    "timeWeek": 4999,
+    "timeMonth": 4999,
+    "timeYear": 4999,
     "dailyMinutesDown": {
-      "2024-05-06": 0
+      "2024-05-06": 19
     }
   },
   {
