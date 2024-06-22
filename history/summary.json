@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1346,
-    "timeDay": 1199,
-    "timeWeek": 1227,
-    "timeMonth": 1341,
-    "timeYear": 1346,
+    "time": 1351,
+    "timeDay": 1634,
+    "timeWeek": 1269,
+    "timeMonth": 1357,
+    "timeYear": 1351,
     "dailyMinutesDown": {
       "2024-05-14": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 500,
-    "timeDay": 390,
-    "timeWeek": 437,
+    "time": 498,
+    "timeDay": 392,
+    "timeWeek": 422,
     "timeMonth": 467,
-    "timeYear": 500,
+    "timeYear": 498,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 456,
-    "timeDay": 313,
-    "timeWeek": 421,
-    "timeMonth": 459,
-    "timeYear": 456,
+    "time": 453,
+    "timeDay": 314,
+    "timeWeek": 425,
+    "timeMonth": 461,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2024-05-14": 20
     }
@@ -63,18 +63,17 @@
     "icon": "https://www.ibm.com/favicon.ico",
     "slug": "hl-tech-xchange-group",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.91%",
-    "time": 5005,
-    "timeDay": 4160,
-    "timeWeek": 4465,
-    "timeMonth": 4141,
-    "timeYear": 5005,
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.92%",
+    "time": 4984,
+    "timeDay": 3923,
+    "timeWeek": 4481,
+    "timeMonth": 4148,
+    "timeYear": 4984,
     "dailyMinutesDown": {
-      "2024-06-21": 12,
       "2024-05-14": 33,
       "2024-05-06": 19
     }
@@ -90,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 384,
-    "timeWeek": 404,
-    "timeMonth": 375,
-    "timeYear": 395,
+    "time": 394,
+    "timeDay": 334,
+    "timeWeek": 402,
+    "timeMonth": 376,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 579,
-    "timeWeek": 419,
-    "timeMonth": 426,
-    "timeYear": 428,
+    "time": 426,
+    "timeDay": 349,
+    "timeWeek": 411,
+    "timeMonth": 427,
+    "timeYear": 426,
     "dailyMinutesDown": {}
   }
 ]
