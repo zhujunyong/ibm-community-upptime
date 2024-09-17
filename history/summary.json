@@ -4,10 +4,10 @@
     "url": "https://www.ibm.com/community/",
     "icon": "https://www.ibm.com/favicon.ico",
     "slug": "ibm-community",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1600,
@@ -16,6 +16,7 @@
     "timeMonth": 2356,
     "timeYear": 1600,
     "dailyMinutesDown": {
+      "2024-09-17": 2,
       "2024-05-14": 22
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.ibm.com/community/ibm-techxchange-conference/",
     "icon": "https://www.ibm.com/favicon.ico",
     "slug": "tech-xchange-conference",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 467,
     "timeMonth": 503,
     "timeYear": 525,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   },
   {
     "name": "HL Community home page",
