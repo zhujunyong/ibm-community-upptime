@@ -1,7 +1,7 @@
 url: https://www.ibm.com/community/101/qradar/
-status: up
-code: 200
-responseTime: 498
-lastUpdated: 2024-11-11T23:17:09.891Z
+status: down
+code: 500
+responseTime: 762
+lastUpdated: 2024-11-12T18:26:21.181Z
 startTime: 2024-05-06T01:30:19.561Z
 generator: Upptime <https://github.com/upptime/upptime>
