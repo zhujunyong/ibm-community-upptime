@@ -1,7 +1,7 @@
 url: https://www.ibm.com/community/
-status: up
-code: 200
-responseTime: 1310
-lastUpdated: 2025-03-28T22:31:53.679Z
+status: down
+code: 500
+responseTime: 904
+lastUpdated: 2025-03-28T22:44:55.890Z
 startTime: 2024-04-28T10:06:48.192Z
 generator: Upptime <https://github.com/upptime/upptime>
