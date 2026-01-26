@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
-    "time": 1724,
-    "timeDay": 1132,
-    "timeWeek": 4202,
-    "timeMonth": 2510,
-    "timeYear": 1682,
+    "time": 1717,
+    "timeDay": 1499,
+    "timeWeek": 4266,
+    "timeMonth": 2512,
+    "timeYear": 1662,
     "dailyMinutesDown": {
       "2026-01-03": 67,
       "2026-01-01": 26,
@@ -35,8 +35,7 @@
       "2025-03-25": 137,
       "2025-03-24": 66,
       "2025-03-12": 47,
-      "2025-02-11": 24,
-      "2025-01-26": 82
+      "2025-02-11": 24
     }
   },
   {
@@ -51,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 499,
-    "timeDay": 342,
-    "timeWeek": 726,
-    "timeMonth": 577,
-    "timeYear": 491,
+    "timeDay": 425,
+    "timeWeek": 742,
+    "timeMonth": 575,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2025-04-28": 174,
       "2025-04-04": 27,
@@ -72,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 837,
-    "timeDay": 597,
-    "timeWeek": 637,
-    "timeMonth": 1282,
-    "timeYear": 947,
+    "time": 838,
+    "timeDay": 618,
+    "timeWeek": 651,
+    "timeMonth": 1280,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2026-01-03": 65,
       "2026-01-01": 25,
@@ -104,16 +103,16 @@
     "icon": "https://www.ibm.com/favicon.ico",
     "slug": "hl-tech-xchange-group",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.84%",
-    "time": 841,
-    "timeDay": 374,
-    "timeWeek": 437,
+    "uptimeYear": "99.85%",
+    "time": 835,
+    "timeDay": 452,
+    "timeWeek": 453,
     "timeMonth": 637,
-    "timeYear": 516,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2026-01-03": 51,
       "2026-01-01": 23,
@@ -125,8 +124,7 @@
       "2025-03-27": 106,
       "2025-03-25": 137,
       "2025-03-24": 66,
-      "2025-03-12": 47,
-      "2025-01-26": 54
+      "2025-03-12": 47
     }
   },
   {
@@ -141,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 416,
-    "timeDay": 311,
-    "timeWeek": 358,
-    "timeMonth": 398,
+    "timeDay": 296,
+    "timeWeek": 352,
+    "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2025-04-28": 174
@@ -161,8 +159,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 403,
-    "timeDay": 377,
-    "timeWeek": 404,
+    "timeDay": 427,
+    "timeWeek": 418,
     "timeMonth": 422,
     "timeYear": 393,
     "dailyMinutesDown": {
