@@ -47,17 +47,17 @@
     "url": "https://community.ibm.com/community/user/home",
     "icon": "https://www.ibm.com/favicon.ico",
     "slug": "hl-community-home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1690,
-    "timeDay": 1023,
-    "timeWeek": 880,
-    "timeMonth": 856,
-    "timeYear": 2019,
+    "time": 1689,
+    "timeDay": 640,
+    "timeWeek": 802,
+    "timeMonth": 838,
+    "timeYear": 2015,
     "dailyMinutesDown": {
       "2025-10-02": 17,
       "2025-10-27": 27,
@@ -66,7 +66,8 @@
       "2026-01-03": 65,
       "2026-02-22": 107,
       "2026-04-30": 156,
-      "2026-05-13": 150
+      "2026-05-13": 150,
+      "2026-08-25": 0
     }
   },
   {
